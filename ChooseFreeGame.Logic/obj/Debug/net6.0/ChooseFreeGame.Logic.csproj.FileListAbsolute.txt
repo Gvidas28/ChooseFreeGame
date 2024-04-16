@@ -1,0 +1,14 @@
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\bin\Debug\net6.0\ChooseFreeGame.Logic.deps.json
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\bin\Debug\net6.0\ChooseFreeGame.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\bin\Debug\net6.0\ChooseFreeGame.Logic.pdb
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.csproj.AssemblyReference.cache
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.AssemblyInfoInputs.cache
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.AssemblyInfo.cs
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.csproj.CoreCompileInputs.cache
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\refint\ChooseFreeGame.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.pdb
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ref\ChooseFreeGame.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\bin\Debug\net6.0\ChooseFreeGame.Logic.runtimeconfig.json
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\ChooseFreeGame\ChooseFreeGame.Logic\obj\Debug\net6.0\ChooseFreeGame.Logic.genruntimeconfig.cache
